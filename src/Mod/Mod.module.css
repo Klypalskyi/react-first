@@ -1,0 +1,18 @@
+.main {
+  width: 75%;
+  background: #870000;
+  background: -webkit-linear-gradient(to right, #190a05, #870000);
+  background: linear-gradient(to right, #190a05, #870000);
+}
+
+.title {
+  font-size: 20px;
+}
+
+.white {
+  color: #fff;
+}
+
+.blue {
+  color: blue;
+}

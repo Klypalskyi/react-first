@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Common Projects",
+    "model": "Bball High",
+    "color": "White",
+    "price": 549,
+    "quantity": 1,
+    "img": "item1"
+  },
+  {
+    "id": 2,
+    "name": "Maison Margiela",
+    "model": "Future Sneakers",
+    "color": "White",
+    "price": 870,
+    "quantity": 3,
+    "img": "item2"
+  },
+  {
+    "id": 3,
+    "name": "Our Legacy",
+    "model": "Brushed Scarf",
+    "color": "Brown",
+    "price": 349,
+    "quantity": 4,
+    "img": "item3"
+  }
+]
